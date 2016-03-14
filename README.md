@@ -2,6 +2,8 @@
 
 Made By Teens is a list of startups that have been launched or are currently in development by teens. To add yours, just submit a PR, following the style of other entries.
 
+<hr>
+
 [Meeet](http://meeet.co) - Find designers and developers to work on side projects
 - Creators: [Noah Buscher](http://twitter.com/nhbschr), [Cole Townsend](http://twitter.com/twnsndco)
 - Status: _In Development_
